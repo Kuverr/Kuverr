@@ -1,5 +1,5 @@
 Trying to get better at coding, mainly java and web development stuff <br/>
-4th year Polish IT high school student
+5th year Polish IT high school student
 
 Jakub Baran
 
