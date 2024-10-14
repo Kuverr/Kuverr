@@ -1,4 +1,4 @@
-Trying to get better at coding, mainly java and web development stuff <br/>
+Trying to get better at coding
 
 <!---
 Kuverr/Kuverr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
